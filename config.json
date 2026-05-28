@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggersarse",
+        "uuid": 24140952,
+        "checksum": "oebkok"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
